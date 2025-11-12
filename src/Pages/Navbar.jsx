@@ -19,13 +19,13 @@ const MyNavbar = () => {
         />
         <Navbar.Collapse id="navbarScroll">
           <Nav className="ms-auto fs-5">
-            {["Home", "About", "Tutorials", "Skills", "Support"].map(
+            {["Home", "About", "Skills", "Tutorials", "Support"].map( 
               (section) => (
                 <Link
                   key={section}
                   to={section}
                   smooth={true}
-                  duration={40}
+                  duration={100}
                   offset={-80}
                   className="nav-link"
                   style={{ color: "rgba(0, 255, 229, 1)" ,  cursor: "pointer" }}
