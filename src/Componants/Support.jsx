@@ -7,7 +7,7 @@ const Support = () => {
     <Element name='Support' >
     <div className="bg-black text-white py-5" style={{ minHeight: "90vh" }}>
       
-      {/* العنوان والوصف */}
+      
       <div className="info container text-center mb-5" style={{ maxWidth: "700px" }}>
         <h2 className="fw-bold mb-3" style={{ color: "rgba(0, 255, 229, 1)" }}>Contact Me</h2>
         <p className="fs-5">
@@ -15,16 +15,15 @@ const Support = () => {
         </p>
       </div>
 
-      {/* القسم الرئيسي */}
       <div className="container d-flex flex-column flex-md-row justify-content-between align-items-start gap-5">
         
-        {/* معلومات التواصل */}
+        
         <div className="text-white" style={{ flex: 1 }}>
           <p className="fs-4 fw-bold mb-4">Contact Information</p>
 
           <div className="mb-3">
-            <i className="bi bi-envelope fs-4 pe-2" style={{ color: "rgba(0, 255, 229, 1)" }}></i>
-            <span className="fs-5">mohamedmohany018@gmail.com</span>
+            <i className="bi bi-envelope fs-5 pe-2" style={{ color: "rgba(0, 255, 229, 1)" }}></i>
+            <span className="fs-6">mohamedmohany018@gmail.com</span>
           </div>
 
           <div className="mb-3">
@@ -46,7 +45,7 @@ const Support = () => {
           </div>
         </div>
 
-        {/* نموذج التواصل */}
+       
         <div className="bg-dark p-4 rounded w-100 w-md-50" style={{ flex: 1 }}>
           <Form>
             <Form.Group className="mb-3">
