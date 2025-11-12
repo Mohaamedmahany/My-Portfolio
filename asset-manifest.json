@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio/static/css/main.e0179458.css",
+    "main.js": "/My-Portfolio/static/js/main.778fde2c.js",
+    "static/media/hero_banner.png": "/My-Portfolio/static/media/hero_banner.386024f7d088b38d77f6.png",
+    "static/media/bekary.webp": "/My-Portfolio/static/media/bekary.75b90b3989d301eb1bda.webp",
+    "static/media/ikea.webp": "/My-Portfolio/static/media/ikea.ca7bf78f56ef0eabb75c.webp",
+    "static/media/bootstrap-icons.woff?": "/My-Portfolio/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/My-Portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/Kora.jpg": "/My-Portfolio/static/media/Kora.ff61877d7482128e1b73.jpg",
+    "static/media/reactjs.png": "/My-Portfolio/static/media/reactjs.e71f4c5b0c4306d65355.png",
+    "static/media/css-3.png": "/My-Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "index.html": "/My-Portfolio/index.html",
+    "main.e0179458.css.map": "/My-Portfolio/static/css/main.e0179458.css.map",
+    "main.778fde2c.js.map": "/My-Portfolio/static/js/main.778fde2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0179458.css",
+    "static/js/main.778fde2c.js"
+  ]
+}
