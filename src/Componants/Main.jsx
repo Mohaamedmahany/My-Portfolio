@@ -46,9 +46,12 @@ const Main = () => {
             </Link>
 
            
-            <Button className='fs-5' variant="success">
-              Download CV
-            </Button>
+            <a href="/CV.pdf" download="Mohamed_Mohany_CV.pdf">
+  <Button className='fs-5' variant="success">
+    Download CV
+  </Button>
+</a>
+
           </div>
         </div>
       </div>

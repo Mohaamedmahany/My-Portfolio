@@ -15,7 +15,7 @@ const Skills = () => {
     { name: "Bootstrap", img:Bootstrab },
     { name: "J.S", img: js },
     { name: "React", img: Reactt },
-    { name: "GIT GUB", img:Github  },
+    { name: "GIT HUB", img:Github  },
   ];
 
   return (

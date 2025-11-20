@@ -10,7 +10,7 @@ const About = () => {
       <div className="container mb-4" style={{ maxWidth: "700px" }}>
         <p className="fs-2">About Me</p>
         <p className="fs-4">
-          Skilled Front-End Developer with expertise in HTML, CSS, JavaScript, Bootstrap, and React Js
+          I studied with SEF ACADEMIC and received a course completion certificate from them. Skilled Front-End Developer with expertise in HTML, CSS, JavaScript, Bootstrap, and React Js
         </p>
       </div>
 
@@ -23,9 +23,11 @@ const About = () => {
         </p>
       </div>
 
-     
-  <Button style={{ backgroundColor: "rgba(0, 255, 229, 1)", color: "black" }} className=' fs-4 fw-bold' variant="success">Download CV</Button>
-    
+           <a href="/Cretificate.jpg" download="Mohamed_Mohany_Certificate.jpg">
+    <Button style={{backgroundColor:"rgba(0, 255, 229, 1)"}} className='fs-4 text-black'>
+      Download Certificate
+    </Button>
+  </a>
     </div>
     </Element>
   )
