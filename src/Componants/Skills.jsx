@@ -6,16 +6,20 @@ import Css from "../assests/css-3.png"
 import Reactt from "../assests/reactjs.png"
 import Bootstrab from "../assests/bootstrap.png"
 import Github from "../assests/github.png"
-
-
+import Next from "../assests/maxresdefault.jpg"
+import twilwind from "../assests/tailwind.png"
+import git from "../assests/git6963.jpg"
 const Skills = () => {
   const skills = [
     { name: "HTML", img: Html },
     { name: "CSS", img: Css  },
     { name: "Bootstrap", img:Bootstrab },
+    { name: "Tailwind.Css", img:twilwind  },
     { name: "J.S", img: js },
     { name: "React", img: Reactt },
+    { name: "Next.Js", img:Next  },
     { name: "GIT HUB", img:Github  },
+       { name: "GIT", img:git  },
   ];
 
   return (
