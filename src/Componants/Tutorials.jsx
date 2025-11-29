@@ -1,6 +1,6 @@
 import { Button } from "react-bootstrap";
 import { Element } from "react-scroll";
-import img1 from "../assests/Kora.jpg";
+import img1 from "../assests/image1221.png";
 import img2 from "../assests/toodoo.png";
 import img3 from "../assests/hero_banner.png";
 import img4 from "../assests/ikea.webp";
@@ -15,6 +15,13 @@ const Tutorials = () => {
       Link: "https://mohaamedmahany.github.io/E-Commerce/#/",
     },
     {
+      name: "Turbo-Drive",
+      img: img1,
+      p: "Next.js ",
+      h2: "Tailwind Css",
+      Link: "https://turbo-drive-nine.vercel.app/",
+    },
+    {
       name: "Todo List",
       img: img2,
       p: "React.js",
@@ -27,13 +34,6 @@ const Tutorials = () => {
       p: "Bootstrp",
       h2: "Css",
       Link: "https://mohaamedmahany.github.io/Ikea-Store/",
-    },
-    {
-      name: "Kora Store",
-      img: img1,
-      p: "Html ",
-      h2: "Css",
-      Link: "https://mohaamedmahany.github.io/Kora-store/",
     },
   ];
 
@@ -76,7 +76,7 @@ const Tutorials = () => {
                     </p>
                     <p
                       style={{
-                        width: "100px",
+                        width: "125px",
                         height: "30px",
                         backgroundColor: "rgba(0, 255, 229, 1)",
                       }}

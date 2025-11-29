@@ -38,6 +38,7 @@ const Support = () => {
 
           <p className="fs-4 mb-2">Follow Me : </p>
           <div className="d-flex gap-3">
+            <a href=""></a>
             <a href="https://www.facebook.com/share/1AyvqzgQZW/" target=' blank'><i className="bi bi-facebook fs-3" style={{ color: "rgba(0, 255, 229, 1)" }}></i></a>
             <a href="https://www.linkedin.com/in/mohamed-mahany-47b415342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target='blank'><i className="bi bi-linkedin fs-3" style={{ color: "rgba(0, 255, 229, 1)" }}></i></a>
             <a href="https://wa.me/201125218188"target=' blank' ><i className="bi bi-whatsapp fs-3" style={{ color: "rgba(0, 255, 229, 1)" }}></i></a>
