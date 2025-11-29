@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.e0179458.css",
-    "main.js": "/My-Portfolio/static/js/main.4c167d20.js",
+    "main.js": "/My-Portfolio/static/js/main.b859b97d.js",
     "static/media/image1221.png": "/My-Portfolio/static/media/image1221.971c649e94d24e1ce845.png",
     "static/media/hero_banner.png": "/My-Portfolio/static/media/hero_banner.386024f7d088b38d77f6.png",
     "static/media/ikea.webp": "/My-Portfolio/static/media/ikea.ca7bf78f56ef0eabb75c.webp",
@@ -9,13 +9,15 @@
     "static/media/bootstrap-icons.woff2?": "/My-Portfolio/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "static/media/toodoo.png": "/My-Portfolio/static/media/toodoo.684566a6f72ad858afd8.png",
     "static/media/reactjs.png": "/My-Portfolio/static/media/reactjs.e71f4c5b0c4306d65355.png",
+    "static/media/git6963.jpg": "/My-Portfolio/static/media/git6963.312d625f36d6ca696afe.jpg",
     "static/media/css-3.png": "/My-Portfolio/static/media/css-3.463e319bad8e0edf1ef7.png",
+    "static/media/maxresdefault.jpg": "/My-Portfolio/static/media/maxresdefault.1f182706ae82a19b1cd0.jpg",
     "index.html": "/My-Portfolio/index.html",
     "main.e0179458.css.map": "/My-Portfolio/static/css/main.e0179458.css.map",
-    "main.4c167d20.js.map": "/My-Portfolio/static/js/main.4c167d20.js.map"
+    "main.b859b97d.js.map": "/My-Portfolio/static/js/main.b859b97d.js.map"
   },
   "entrypoints": [
     "static/css/main.e0179458.css",
-    "static/js/main.4c167d20.js"
+    "static/js/main.b859b97d.js"
   ]
 }
