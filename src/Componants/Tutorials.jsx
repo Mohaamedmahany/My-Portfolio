@@ -4,7 +4,8 @@ import img1 from "../assests/image1221.png";
 import img2 from "../assests/toodoo.png";
 import img3 from "../assests/hero_banner.png";
 import img4 from "../assests/ikea.webp";
-
+import img5 from "../assests/neewproj.png"
+import img6 from "../assests/proj11.png"
 const Tutorials = () => {
   const Projects = [
     {
@@ -14,6 +15,20 @@ const Tutorials = () => {
       h2: "Bootstrap",
       Link: "https://mohaamedmahany.github.io/E-Commerce/#/",
     },
+    {
+     name: "Pick & Buy",
+     img: img5,
+     p: "React.js ",
+     h2: "Bootstrap",
+     Link: "https://Mohaamedmahany.github.io/Mahany-Store",
+   },
+   {
+     name: "Beauty-Store",
+     img: img6,
+     p: "React.js ",
+     h2: "Tailwind Css",
+     Link: "https://Mohaamedmahany.github.io/project11",
+   },
     {
       name: "Turbo-Drive",
       img: img1,

@@ -46,7 +46,7 @@ const Main = () => {
             </Link>
 
            
- <a href={`${process.env.PUBLIC_URL}/CV-new2.pdf`} download="Mohamed_Mahany_CV.pdf">
+ <a href={`${process.env.PUBLIC_URL}/NewCV.pdf`} download="Mohamed_Mahany_CV2.pdf">
   <Button className='fs-5' variant="success">
     Download CV
   </Button>
